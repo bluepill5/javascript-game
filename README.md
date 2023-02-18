@@ -1,2 +1,2 @@
-# javascript-game
-Little game online
+# talller-practico-javascript-videogames
+
